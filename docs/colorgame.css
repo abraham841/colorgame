@@ -35,7 +35,7 @@ h1{
     display: inline-block;
     color: black;
 }
-.squares {
+.square {
     width: 30%;
     background-color: purple;
     padding-bottom: 30%;
@@ -59,9 +59,9 @@ button{
     text-transform: uppercase;
     color: steelblue;
     font-size: inherit;
-    letter-spacing: 1px;
-    font-weight: 700;
-    height: 40px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    height: 50px;
     transition: all 0.5s;
     -moz-transition: all 0.5s;
     -webkit-transition: all 0.5s;
